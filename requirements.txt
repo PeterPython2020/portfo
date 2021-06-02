@@ -79,7 +79,7 @@ translate==3.5.0
 translation==1.0.5
 translators==4.6.2
 twilio==6.42.0
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.21
 wcwidth==0.2.4
 webencodings==0.5.1
